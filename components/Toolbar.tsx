@@ -13,7 +13,7 @@ export default function Toolbar() {
     <div className="flex items-center justify-between px-4 py-2.5 border-b border-zinc-800 bg-zinc-900">
       <div className="flex items-center gap-2">
         <Smartphone size={18} className="text-violet-400" />
-        <span className="text-sm font-semibold tracking-tight">App Builder</span>
+        <span className="text-sm font-semibold tracking-tight">MobxDev</span>
       </div>
 
       <div className="flex items-center gap-3">
