@@ -1,9 +1,9 @@
-/** @type {import("next").NextConfig} */
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export",
-
-  basePath: "/MobxDev",
-
+  output: 'export',
+  // Match your exact GitHub repository name (case-sensitive)
+  basePath: '/MobxDev',
+  trailingSlash: true,
   images: {
     unoptimized: true,
   },

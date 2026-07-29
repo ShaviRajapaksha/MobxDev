@@ -1,12 +1,12 @@
 {
   "homepage": "https://ShaviRajapaksha.github.io/MobxDev",
-  "name": "mobile-app-builder",
+  "name": "MobxDev",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out",
+    "deploy": "gh-pages -d out --dotfiles",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
