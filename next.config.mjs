@@ -1,7 +1,11 @@
-/** @type {import('next').NextConfig} */
+/** @type {import("next").NextConfig} */
 const nextConfig = {
+  output: "export",
+
+  basePath: "/MobxDev",
+
   images: {
-    remotePatterns: [{ protocol: "https", hostname: "picsum.photos" }],
+    unoptimized: true,
   },
 };
 
