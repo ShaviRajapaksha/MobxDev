@@ -1,4 +1,4 @@
-# SnappBuild
+# MobxDev
 
 A visual, drag-and-drop mobile app builder for developers. Design real
 screens on a phone-sized canvas, wire navigation between pages, and export
