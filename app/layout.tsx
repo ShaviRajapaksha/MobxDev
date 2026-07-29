@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
+// @ts-ignore
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "App Builder — visual mobile app design",
+  title: "MobxDev — visual mobile app design",
   description: "Drag-and-drop no-code mobile app builder with Flutter export",
 };
 
