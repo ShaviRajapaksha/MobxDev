@@ -4,6 +4,8 @@ A visual, drag-and-drop mobile app builder for developers. Design real
 screens on a phone-sized canvas, wire navigation between pages, and export
 working Flutter (Dart) or React Native code — no UI code written by hand.
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/3378fbd9-6759-453a-a534-121ebc2303bc" />
+
 ## Overview
 
 Appwright is a Next.js application that reproduces the core workflow of
